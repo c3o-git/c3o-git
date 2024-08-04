@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dc3official3@gmail.com**
 
-- 📄 Know about my experiences [https://c3o-git.github.io/portfolio](https://c3o-git.github.io/portfolio)
+- 📄 Know about my experiences [Portifolio](https://c3o-git.github.io/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
