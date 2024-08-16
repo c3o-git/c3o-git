@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dc3official3" target="blank"><img src="https://img.shields.io/twitter/follow/dc3official3?logo=twitter&style=for-the-badge" alt="dc3official3" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [c3o-git?tab=repositories](c3o-git?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/c3o-git?tab=repositories](repositories)
 
 - 💬 Ask me about **React, php, HTML, CSS, JAVASCRIPT**
 
