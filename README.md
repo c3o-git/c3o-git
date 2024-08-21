@@ -1,4 +1,4 @@
-<img align="center" src="https://c3o-git.github.io/portfolio/images/me.png" alt="dc3official3 profile" height="100" width="100" />
+<img align="center" style="border-radius: 25px" src="https://c3o-git.github.io/portfolio/images/me.png" alt="dc3official3 profile" height="100" width="100" />
 <h1 align="center">Hi 👋, I'm CELESTINE CHINEDU OKPALA</h1>
 <h3 align="center">A passionate fullstack Web and App developer from Nigeria.</h3>
 
