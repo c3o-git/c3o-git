@@ -1,4 +1,4 @@
-<p align="center"> <img align="left" src="https://c3o-git.github.io/portfolio/images/me.png" alt="dc3official3 profile" height="100" width="100"/> <img align="right" src="https://github.com/c3o-git/portfolio/blob/main/images/1722615372160.jpg" alt="dc3official3 profile" height="100" width="100"/></p>
+<p align="center"> <img align="left" src="https://c3o.onrender.com/images/me.png" alt="dc3official3 profile" height="100" width="100"/> <img align="right" src="https://github.com/c3o-git/portfolio/blob/main/images/1722615372160.jpg" alt="dc3official3 profile" height="100" width="100"/></p>
 <h1 align="center">Hi 👋, I'm CELESTINE CHINEDU OKPALA</h1>
 <h3 align="center">A passionate fullstack Web and App developer from Nigeria.</h3>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dc3official3@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://c3o-git.github.io/portfolio)
+- 📄 Know about my experiences [Portfolio](https://c3o.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
